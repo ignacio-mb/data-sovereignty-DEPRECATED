@@ -1,4 +1,4 @@
-# Data Sovereignty
+# Data Sovereignty - DEPRECATED
 
 A self-hosted ingestion stack you drive from Claude Code — ingestion,
 orchestration, data quality, warehouse and BI in one repo, on your own hardware.
